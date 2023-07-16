@@ -60,11 +60,11 @@ You may find small projects like:
 
 ### Social Media
 <p align="center">
-<img src= "assets/socials/discord.svg"/>
-<img src= "assets/socials/twitter.svg"/>
-<img src= "assets/socials/instagram.svg"/>
-<img src= "assets/socials/linkedin.svg"/>
-<img src= "assets/socials/proton.svg"/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/discord.svg"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/twitter.svg"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/instagram.svg"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/linkedin.svg"/></a>
+<a href="mailto:schroddinger@proton.me"><img src= "assets/socials/proton.svg"/></a>
 </p>
 
 
