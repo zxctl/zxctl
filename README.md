@@ -67,8 +67,10 @@ You may find small projects like:
 <a href="mailto:schroddinger@proton.me"><img src= "assets/socials/proton.svg"/></a>
 </p>
 
+##### About the badges
+[Source][1]
 
-
+[1]: https://github.com/Ileriayo/markdown-badges
 <!--
 **zxctl/zxctl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
