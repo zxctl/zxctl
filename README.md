@@ -47,9 +47,9 @@ You may find small projects like:
 <img src= "assets/languages/typescript.svg"/>
 </p>
 
-* COBOL & Fortran (Just for the memes)
-* R (To help my sister)
-* Typescript (I really need to be familiar with frontend)
+* __COBOL__ & __Fortran__ (Just for the memes)
+* __R__ (To help my sister)
+* __Typescript__ (I really need to be familiar with frontend)
 
 ### Languages I hate
 <p align="center">
