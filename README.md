@@ -64,7 +64,7 @@ You may find small projects like:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/twitter.svg"/></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/instagram.svg"/></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/linkedin.svg"/></a>
-<a href="mailto:schroddinger@proton.me"><img src= "assets/socials/proton.svg"/></a>
+<a href="mailto:alex.qrst@proton.me"><img src= "assets/socials/proton.svg"/></a>
 </p>
 
 ##### About the badges
@@ -72,7 +72,7 @@ You may find small projects like:
 
 [1]: https://github.com/Ileriayo/markdown-badges
 <!--
-**zxctl/zxctl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lex/Lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
