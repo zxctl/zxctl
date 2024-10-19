@@ -29,6 +29,7 @@ You may find small projects like:
 <img src= "assets/languages/kotlin.svg"/>
 <img src= "assets/languages/asm.svg"/>
 <img src= "assets/languages/abap.svg"/>
+<img src= "assets/languages/typescript.svg"/>
 </p>
 
 ### Not _programming_ languages
@@ -44,12 +45,10 @@ You may find small projects like:
 <img src= "assets/languages/cobol.svg"/>
 <img src= "assets/languages/fortran.svg"/>
 <img src= "assets/languages/r.svg"/>
-<img src= "assets/languages/typescript.svg"/>
 </p>
 
 * __COBOL__ & __Fortran__ (Just for the memes)
 * __R__ (To help my sister)
-* __Typescript__ (I really need to be familiar with frontend)
 
 ### Languages I hate
 <p align="center">
